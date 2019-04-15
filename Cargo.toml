@@ -2,6 +2,9 @@
 name = "coinflip"
 version = "0.1.0"
 authors = ["garritfra <garritfranke@gmail.com>"]
+repository = "https://github.com/garritfra/coinflip"
+exclude = [".gitignore"]
+readme = "README.md"
 edition = "2018"
 description = "Flip a coin and test your luck🔮"
 license = "MIT"
