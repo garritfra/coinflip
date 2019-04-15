@@ -1,9 +1,9 @@
 [package]
 name = "coinflip"
-version = "0.0.1"
+version = "0.1.0"
 authors = ["garritfra <garritfranke@gmail.com>"]
 edition = "2018"
-description = "A Coinflip Crate"
+description = "Flip a coin and test your luck🔮"
 license = "MIT"
 
 [dependencies]
