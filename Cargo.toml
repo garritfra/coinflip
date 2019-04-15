@@ -3,6 +3,8 @@ name = "coinflip"
 version = "0.0.1"
 authors = ["garritfra <garritfranke@gmail.com>"]
 edition = "2018"
+description = "A Coinflip Crate"
+license = "MIT"
 
 [dependencies]
 rand = "0.6.5"
